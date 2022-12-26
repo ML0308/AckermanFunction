@@ -1,0 +1,7 @@
+C:\Users\oksan\source\repos\AckermanFunction\AckermanFunction\AckermanFunction\bin\Debug\AckermanFunction.exe.config
+C:\Users\oksan\source\repos\AckermanFunction\AckermanFunction\AckermanFunction\bin\Debug\AckermanFunction.exe
+C:\Users\oksan\source\repos\AckermanFunction\AckermanFunction\AckermanFunction\bin\Debug\AckermanFunction.pdb
+C:\Users\oksan\source\repos\AckermanFunction\AckermanFunction\AckermanFunction\obj\Debug\AckermanFunction.csproj.AssemblyReference.cache
+C:\Users\oksan\source\repos\AckermanFunction\AckermanFunction\AckermanFunction\obj\Debug\AckermanFunction.csproj.CoreCompileInputs.cache
+C:\Users\oksan\source\repos\AckermanFunction\AckermanFunction\AckermanFunction\obj\Debug\AckermanFunction.exe
+C:\Users\oksan\source\repos\AckermanFunction\AckermanFunction\AckermanFunction\obj\Debug\AckermanFunction.pdb

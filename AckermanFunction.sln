@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AckermanFunction", "AckermanFunction\AckermanFunction.csproj", "{8BFECE7B-C8D9-47B0-8612-3A9FAC05D29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BFECE7B-C8D9-47B0-8612-3A9FAC05D29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFECE7B-C8D9-47B0-8612-3A9FAC05D29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFECE7B-C8D9-47B0-8612-3A9FAC05D29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFECE7B-C8D9-47B0-8612-3A9FAC05D29C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA3317B-C3A1-469C-BC4A-65C5B85F79D2}
+	EndGlobalSection
+EndGlobal
